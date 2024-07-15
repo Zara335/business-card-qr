@@ -1,0 +1,29 @@
+#business-card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+p {
+    margin: 5px 0;
+}
+#business-card {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text for contrast */
+    border: 1px solid #ccc; /* Optional border color */
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1); /* Light shadow for effect */
+    margin: 20px auto;
+}
